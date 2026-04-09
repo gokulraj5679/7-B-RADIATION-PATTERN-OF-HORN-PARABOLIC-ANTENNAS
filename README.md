@@ -1,4 +1,4 @@
-# 7-B-RADIATION-PATTERN-OF-HORN-PARABOLIC-ANTENNAS
+# 8-ANALYSIS OF DIRECTIONAL COUPLER
 
 **Aim:**
 To measure the polar pattern and the gain of a waveguide horn antenna and parabolic antenna.
